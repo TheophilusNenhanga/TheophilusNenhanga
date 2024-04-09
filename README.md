@@ -10,7 +10,6 @@ I'm a solo developer in Saskatoon, Canada. I hope to one day use my skills to ma
   - JavaScript
   - C#
   - HTML + CSS
-  - R
 
 - **Web Development**
   - Frameworks:  Flask, Express.js
@@ -18,9 +17,6 @@ I'm a solo developer in Saskatoon, Canada. I hope to one day use my skills to ma
 
 - **Game Development**
   - Unity Engine
-
-- **Tools**
-  - Git
 
 ## Education
 
