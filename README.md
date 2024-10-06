@@ -1,5 +1,1 @@
-I'm Theophilus Nenhanga
-
-- [Email](mailto:theonenhanga@gmail.com)
-
-Thanks stopping by.
+I'm Theophilus, thanks for stopping by.
